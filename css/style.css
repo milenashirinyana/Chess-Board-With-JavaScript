@@ -1,0 +1,30 @@
+html{background: rgba(107, 76, 18, 0.774);}
+.field{
+    display: flex;
+    margin: 50px auto;
+    border: 3px solid #000;
+    width: 640px;
+    height: 640px;
+    flex-wrap: wrap;
+    box-shadow: 0px 0px 18px -6px #000000;
+    background: #000;
+}
+.excel{
+    width: 78px;
+    height: 78px;
+    border: 1px solid #000;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+li{list-style: none;padding: 30px;font-weight: bold;}
+.div2{position: absolute;
+    top: 60px;
+    left: 244px;
+}
+.letters{
+    display: flex;
+    padding-left: 74px;
+    letter-spacing: 15px;
+}
